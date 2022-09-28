@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center"> 
-  Visitors(from Apr 27, 2021):<br>
+  Visitors(from 27 May, 2022):<br>
   <img src="https://profile-counter.glitch.me/artur309/count.svg" />
 </p>
