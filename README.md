@@ -29,26 +29,25 @@ Here are some ideas to get you started:
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artur309&theme=github_dark" align = "center"/></p>
 
-  <summary><b>⚡ Github Stats</b></summary>
+<summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=artur309&hide_border=true&count_private=true&show_icons=true&theme=radical" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=artur309&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="artur309" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=artur309&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="artur309" /></p>
-
+<!-- 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="artur309 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=artur309&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
+<p align="center"<a href="#"><img alt="artur309 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=artur309&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
+
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/artur309"><img src="https://github-profile-trophy.vercel.app/?username=artur309&margin-w=5&theme=radical" alt="artur309" /></a> </p>
 
 
-### 📊 GitHub Stats:
+<!-- ### 📊 GitHub Stats:
 ---
 ![artur309 Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artur309&theme=solarized_dark)
 ![artur309 Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artur309&theme=solarized_dark)
-
+ -->
 
 
 <h2>🎶 <img src="https://cdn.discordapp.com/emojis/961267828416188436.webp?size=56&quality=lossless" width="28"> Music is essential:</h2> 
