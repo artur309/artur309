@@ -50,7 +50,7 @@ Here are some ideas to get you started:
  -->
 
 
-<h2>🎶 <img src="https://cdn.discordapp.com/emojis/961267828416188436.webp?size=56&quality=lossless" width="28"> Music is essential:</h2> 
+<h2>🎶 <img src="https://cdn.discordapp.com/emojis/961267828416188436.webp?size=56&quality=lossless" width="28"> Music is essential</h2> 
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=TheBadMushroom)](https://www.last.fm/user/TheBadMushroom)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2w3frtj79nppdny00gvs6twrc&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
