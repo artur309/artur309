@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>ℹ️ &nbsp;Github Info <img src="https://cdn.discordapp.com/emojis/942196020060758037.gif" width="28"> </h2> 
+<h2>📢 &nbsp;Github Info <img src="https://cdn.discordapp.com/emojis/942196020060758037.gif" width="28"> </h2> 
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artur309&theme=github_dark" align = "center"/></p>
